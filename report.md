@@ -211,9 +211,11 @@ I participated in two events:
  Here yi is the actual value ,other one is predicted value and n is the total number of data points.\
  To make the model accurate,gradient descent is used to minimize the error by adjusting the slope(weight) and intercept.formula for gradient descent is,\
  ![image](https://raw.githubusercontent.com/Thanu-cpu/Marvel-level-0-report/6d9f9be4acf8a0cec9c231c5de6ee81967b39014/Screenshot%202025-09-14%20232752.png)\
- Where,alpha is the learning rate controls the step size. By continuously updating these values, the model finds the line of best fit, which gives the most accurate predictions.
+ Where,alpha is the learning rate controls the step size. By continuously updating these values, the model finds the line of best fit, which gives the most accurate predictions.\
+ [click here](https://github.com/Thanu-cpu/Marvel-level-0-report/commit/ba929996b36dbd0542767306417bb51cbbc1ec38) to view the code.\
+ ![image](https://raw.githubusercontent.com/Thanu-cpu/Marvel-level-0-report/b8373a78fdea3826a2f8d507d9626257164ade59/Screenshot%202025-10-03%20083655.png)
  # **DOMAIN SPECIFIC TASKS** 
- # TASK 16: NOTEBOOK NINJA-GETTING STARTED WITH JYPYTER
+ # TASK 16: NOTEBOOK NINJA-GETTING STARTED WITH JUPYTER
  **Objective:** Familiarize yourself with Jupyter Notebook as a tool for both coding and communication.This task is designed to build confidence in writing clean, readable, and well-structured notebooks using both code and Markdown.\
  **Learnings and outcomes:**\
  a)I gained knowledge about Jupyter Notebook and created my first notebook.\
@@ -239,6 +241,8 @@ I participated in two events:
 
 
    
+
+
 
 
 
